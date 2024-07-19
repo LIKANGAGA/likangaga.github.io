@@ -1,0 +1,32 @@
+*{
+    text-align:center;
+}
+body{
+    margin-left:25%;
+    margin-right:25%;
+    background-image:url("Food.jpg");
+    background-size: cover;
+    background-repeat:none;
+    color: rgb(243, 253, 45);
+}
+form{
+    border: 3px solid;
+    border-radius: 10px;
+    margin:10%;
+    padding:10%;
+    background-color:rgba(76, 78, 17, 0.455)
+}
+input{
+    margin: 5%;
+    padding: 3px;
+    border-radius: 6px;
+}
+#submit{
+    padding: 10px;
+    background-color:rgb(76, 78, 17);
+    color:aliceblue;
+    border-radius:12px;
+}
+selection{
+    border-radius:4px;
+}
